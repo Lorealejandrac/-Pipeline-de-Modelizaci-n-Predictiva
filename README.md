@@ -76,3 +76,23 @@ Estas herramientas permiten construir pipelines completos de análisis de datos 
 ---
 
 # Estructura del repositorio
+
+predictive-modeling-project/
+
+│
+├── notebooks
+│ predictive_modeling_pipeline.ipynb
+│
+├── data
+│ dataset.csv
+│
+└── README.md
+
+
+
+---
+
+# Autor
+
+Lorena Carrillo  
+Data Analyst | Ciencias Actuariales | Modelización Predictiva
