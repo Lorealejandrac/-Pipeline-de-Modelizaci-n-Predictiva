@@ -24,7 +24,9 @@ Este enfoque permite demostrar cómo estructurar un proceso de análisis estadí
 # Preparación y limpieza de datos
 
 Antes de aplicar cualquier modelo predictivo, se realizó una fase de limpieza y depuración del dataset con el fin de garantizar la calidad de la información.
-![Tabla de variables](images/Tabla_Variables_Agri.png)
+
+  ![Tabla de variables](images/Tabla_Variables_Agri.png)
+  
 Las principales tareas incluyeron:
 
 - Revisión de los tipos de variables.
