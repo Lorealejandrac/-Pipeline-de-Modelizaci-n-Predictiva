@@ -37,6 +37,10 @@ Las principales tareas incluyeron:
 
 Esta etapa es fundamental, ya que la calidad de los datos influye directamente en la estabilidad y fiabilidad de los modelos estadísticos.
 
+  ![Distribuciones de variables](images/distrib_variables.png)
+
+  ![Variable Discreta Objetivo](images/variable_obj_disc.png)
+  
 ---
 
 # Modelización mediante regresión
@@ -51,7 +55,8 @@ El proceso incluyó:
 - Análisis del ajuste del modelo mediante estadísticas de bondad de ajuste.
 
 Este análisis permite identificar qué variables tienen mayor impacto en la variable objetivo y comprender mejor las relaciones presentes en los datos.
-
+  ![Clasificación por V de Crammer](images/V_cramer.png)
+  
 ---
 
 # Resultados
@@ -60,6 +65,8 @@ Los modelos estimados permiten identificar patrones relevantes en el comportamie
 
 El análisis pone de manifiesto la importancia de una adecuada preparación de los datos y de una interpretación cuidadosa de los resultados estadísticos.
 
+  ![Comparacion de modelos](images/comparacion_modelo.png)
+  
 ---
 
 # Tecnologías utilizadas
@@ -77,18 +84,6 @@ Estas herramientas permiten construir pipelines completos de análisis de datos 
 
 ---
 
-# Estructura del repositorio
-
-predictive-modeling-project/
-
-│
-├── notebooks
-│ predictive_modeling_pipeline.ipynb
-│
-├── data
-│ dataset.csv
-│
-└── README.md
 
 
 
