@@ -1,4 +1,3 @@
-# -Pipeline-de-Modelizacion-Predictiva
 
 # Pipeline de Modelización Predictiva
 
